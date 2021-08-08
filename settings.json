@@ -1,0 +1,19 @@
+{
+    "name": "AVANGER",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "AVANGER",
+        "/category/asset_value_tracking/core-token/symbol": "AVANGER",
+        "/category/asset_value_tracking/core-token/decimals": "1",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "multiple",
+        "/category/collection/core-entity": true
+    }
+}
